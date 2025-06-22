@@ -1,67 +1,76 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/MihirRajput/MihirRajput/main/resources/git-profile.gif" width="300" alt="GitHub Profile Welcome" />
   <h1>👋 Hey there! I'm Tarık Çağırıcı</h1>
-  <h3>A Software Engineering Student at 42 Echol Kocaeli, Türkiye.</h3>
+  <h3>A Software Engineering Student and Aspiring Developer from Kocaeli, Turkey.</h3>
 </div>
-
----
-
-<p align="center">
-  <a href="https://linkedin.com/in/tarık-çağırıcı-6a353b272" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:your_email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  </p>
 
 ---
 
 ### 🚀 About Me
 
-I am currently pursuing an intensive project-based and peer-learning software development education at 42 Echol Kocaeli. I am passionate about problem-solving and analytical thinking, focusing on writing clean, efficient, and scalable code.
+I am currently immersed in an intensive, **project-based and peer-learning software development program at 42 Echol Kocaeli**. This unique methodology allows me to gain in-depth knowledge and hands-on experience in languages like C, C++, and Python, while focusing on algorithmic thinking, system programming, and data structures.
 
-I am also enhancing my versatile skills by studying Computer Programming at Trakya University and Web Design & Coding at Istanbul University.
+My passion for problem-solving and a continuous drive to learn push me to write clean, efficient, and scalable code. Complementing my studies at 42 Echol, I am also pursuing Computer Programming at Trakya University and Web Design & Coding at Istanbul University, which further strengthens my foundation in software development and helps me build a versatile skill set.
 
-### 💻 My Technologies & Tools
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=c&theme=dark" width="48" height="48" alt="C" />
-      <br>C
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="48" height="48" alt="C++" />
-      <br>C++
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" height="48" alt="Python" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" height="48" alt="HTML" />
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" height="48" alt="CSS" />
-      <br>CSS
-    </td>
-     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-  </tr>
-  </table>
+My goal is to create lasting solutions and contribute to innovative projects in the software world. I am always open to new challenges and learning opportunities.
 
 ---
 
-### ✨ My GitHub Stats (Optional - For extra flair)
+### 💻 My Technologies & Tools
 
-```markdown
-[![Tarık's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tarikcaa&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tarikcaa&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,nodejs,react,mysql,postgresql,docker,linux,git,vscode&theme=dark" />
+  </a>
+</p>
+<p align="center">
+  *Alongside the technologies above, my core competencies include **algorithm design, data structures, problem-solving, and teamwork**.*
+</p>
+
+---
+
+### ✨ My GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=tarikcaa&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Tarık's GitHub Stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarikcaa&layout=compact&theme=dark" alt="Top Languages" />
+  </a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=tarikcaa&theme=dark&no-frame=true" alt="GitHub Trophies" />
+  </a>
+</p>
+
+---
+
+### 💡 Featured Projects (Optional but Highly Recommended!)
+
+Here, you can briefly talk about your pinned projects or the ones you are most proud of. This creates a "projects showcase" similar to `ahmetserdartncy`'s profile, highlighting your key work directly.
+
+* **[Project Name 1 (e.g., Libft)]**: [Brief description of the project, what it does, and what you learned from it].
+    * [Repo Link](https://github.com/tarikcaa/Libft)
+* **[Project Name 2 (e.g., get_next_line)]**: [Brief description of the project, what it does, and what you learned from it].
+    * [Repo Link](https://github.com/tarikcaa/get_next_line)
+* **[Project Name 3 (e.g., Born2beRoot)]**: [Brief description of the project, what it does, and what you learned from it].
+    * [Repo Link](https://github.com/tarikcaa/Born2beRoot)
+
+---
+
+### 🌱 What I'm Currently Learning
+
+I am continuously exploring new technologies and expanding my skill set. Currently, I am particularly focused on **[New technology/topic you are learning, e.g., Go Programming Language, Docker Orchestration, Cloud Native Technologies, Machine Learning Fundamentals]**.
+
+---
+
+### 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tar%C4%B1k-%C3%A7a%C4%9F%C4%B1r%C4%B1c%C4%B1-6a353b272/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:tcagrc@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  </p>
