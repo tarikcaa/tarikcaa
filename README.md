@@ -67,7 +67,7 @@ I am continuously exploring new technologies and expanding my skill set. Current
 ### 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tar%C4%B1k-%C3%A7a%C4%9F%C4%B1r%C4%B1c%C4%B1-6a353b272/" target="_blank">
+  <a href="https://www.linkedin.com/in/tarikcaa/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:tcagrc@gmail.com">
